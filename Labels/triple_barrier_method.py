@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import datetime
 import warnings
-from research.Util.multiprocess import mp_pandas_obj
+from Util.multiprocess import mp_pandas_obj
 
 p = print
 
